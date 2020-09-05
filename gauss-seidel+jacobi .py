@@ -49,3 +49,7 @@ elif g=='gj' or g== 'GJ' or g=='Gj' or g=='gJ':
 
 else:
     print('pls type method correctly')
+    
+    
+inpo=input()
+    
